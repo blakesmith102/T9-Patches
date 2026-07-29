@@ -22,7 +22,7 @@ ForsakenBoxPatch - Gaurentees the best box location, a double points as the firs
 
 MauerApartmentsBoxPatch - Makes the game give you the apartments box location first
 
-MauerCansPatch - Gives you perfect cans for easter egg speedruns
+MauerCansPatch - Gives you perfect cans for easter egg speedruns (made by Scrappy updated by me)
 
 MauerBoxPatch - Gives you apartments box location and makes whatever weapon you pickup from the box the CRBRS
 
